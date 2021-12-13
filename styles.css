@@ -226,7 +226,7 @@ footer {
   }
 }
 
-@media (max-height: 675px) {
+@media (max-height: 675px) and (min-width: 1000px) {
   .text {
     padding-top: 9rem;
   }
